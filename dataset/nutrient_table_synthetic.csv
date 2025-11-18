@@ -1,0 +1,121 @@
+food_id,food_name,energy_kcal,protein_g,fat_g,carb_g
+F001,Rice Cooked,130,2.7,0.3,28.0
+F002,White Bread,265,7.5,3.2,49.0
+F003,Oatmeal,350,11.0,5.0,56.0
+F004,Chicken Breast,165,31.0,3.6,0.0
+F005,Beef Lean,250,26.0,15.0,0.0
+F006,Chicken Egg,155,13.0,11.0,1.1
+F007,Milk Full Cream,61,3.2,3.3,5.0
+F008,Apple,52,0.3,0.2,14.0
+F009,Banana,89,1.1,0.3,23.0
+F010,Carrot,41,0.9,0.2,10.0
+F011,Spinach,23,2.9,0.4,3.6
+F012,Tofu,76,8.0,4.8,2.0
+F013,Tempe,192,20.8,8.8,9.0
+F014,Salmon,208,20.4,13.0,0.0
+F015,Sardine,185,21.0,10.5,0.0
+F016,Peanut,567,25.8,49.2,16.0
+F017,Soy Milk,54,3.3,1.8,4.9
+F018,Yogurt Plain,59,10.0,0.4,3.6
+F019,Pasta Cooked,130,5.0,1.1,25.0
+F020,Noodles Instant,436,8.0,17.0,65.0
+F021,Porridge,70,1.4,0.3,15.0
+F022,Corn Boiled,86,3.4,1.3,19.0
+F023,Potato Boiled,87,1.9,0.1,20.0
+F024,Sweet Potato,86,1.6,0.1,20.0
+F025,Orange,47,0.9,0.1,12.0
+F026,Pear,57,0.4,0.1,15.0
+F027,Grapes,69,0.7,0.2,18.0
+F028,Watermelon,30,0.6,0.2,8.0
+F029,Papaya,43,0.5,0.3,11.0
+F030,Mango,60,0.8,0.4,15.0
+F031,Pineapple,50,0.5,0.1,13.0
+F032,Melon,34,0.8,0.2,8.0
+F033,Avocado,160,2.0,15.0,9.0
+F034,Olive Oil,884,0.0,100.0,0.0
+F035,Butter,717,0.8,81.0,1.0
+F036,Cheese,400,25.0,33.0,1.3
+F037,Ice Cream,207,3.5,11.0,24.0
+F038,Chocolate Bar,546,4.9,31.0,61.0
+F039,Honey,304,0.3,0.0,82.0
+F040,Sugar,387,0.0,0.0,100.0
+F041,Coffee Instant,2,0.1,0.0,0.4
+F042,Tea Brewed,1,0.1,0.0,0.2
+F043,Chicken Soup,40,2.5,1.5,3.0
+F044,Beef Soup,55,3.8,2.0,4.0
+F045,Fish Soup,50,4.5,1.0,4.5
+F046,Tuna,132,29.0,1.0,0.0
+F047,Shrimp,99,24.0,0.3,0.2
+F048,Crab,97,19.0,1.3,0.7
+F049,Squid,92,16.0,1.4,3.0
+F050,Broccoli,34,2.8,0.4,7.0
+F051,Cauliflower,25,1.9,0.3,5.0
+F052,Cabbage,25,1.3,0.1,6.0
+F053,Tomato,18,0.9,0.2,3.9
+F054,Cucumber,15,0.7,0.1,3.6
+F055,Onion,40,1.1,0.1,9.0
+F056,Garlic,149,6.4,0.5,33.0
+F057,Ginger,80,1.8,0.7,18.0
+F058,Mushroom,22,3.1,0.3,3.3
+F059,Chili,40,2.0,0.4,9.0
+F060,Peas,81,5.4,0.4,14.0
+F061,Lentils Cooked,116,9.0,0.4,20.0
+F062,Chickpeas,164,9.0,2.6,27.0
+F063,Red Beans,127,8.7,0.5,22.0
+F064,Green Beans,105,7.0,0.5,20.0
+F065,Black Beans,132,8.9,0.5,23.0
+F066,Peanut Butter,588,25.0,50.0,20.0
+F067,Sunflower Seeds,584,20.0,51.0,20.0
+F068,Pumpkin Seeds,559,19.0,49.0,15.0
+F069,Almonds,579,21.0,50.0,22.0
+F070,Walnuts,654,15.0,65.0,14.0
+F071,Raisins,299,3.1,0.5,79.0
+F072,Dates,282,2.5,0.4,75.0
+F073,Prunes,240,2.2,0.4,64.0
+F074,Coconut Meat,354,3.3,33.5,15.0
+F075,Coconut Milk,230,2.3,24.0,6.0
+F076,Tofu Fried,271,20.0,19.0,8.0
+F077,Tempe Fried,270,18.0,15.0,10.0
+F078,Chicken Skin,450,8.0,40.0,0.0
+F079,Duck Meat,337,19.0,28.0,0.0
+F080,Liver Beef,135,20.4,3.6,4.0
+F081,Liver Chicken,148,23.0,5.0,1.0
+F082,Rice Cake,91,1.8,0.2,21.0
+F083,Noodles Fresh,138,4.5,0.8,28.0
+F084,Spaghetti Cooked,158,5.8,0.9,30.0
+F085,Macaroni Cooked,140,5.0,1.0,25.0
+F086,Pancake,227,6.0,10.0,28.0
+F087,Waffle,291,7.5,14.0,35.0
+F088,Cornflakes,357,8.0,2.0,84.0
+F089,Granola,471,11.0,20.0,64.0
+F090,Cereal Chocolate,395,7.0,12.0,72.0
+F091,French Fries,312,3.4,15.0,41.0
+F092,Mashed Potato,140,2.6,4.0,21.0
+F093,Fried Rice,250,5.5,8.0,40.0
+F094,Soup Vegetable,80,3.0,1.0,12.0
+F095,Fried Banana,252,2.7,14.0,30.0
+F096,Fish Nugget,276,14.0,17.0,19.0
+F097,Chicken Nugget,296,16.0,20.0,18.0
+F098,Beef Sausage,301,12.0,25.0,5.0
+F099,Fish Ball,77,10.0,1.1,5.0
+F100,Chicken Ball,95,11.0,3.2,6.0
+F101,Pudding Chocolate,130,3.5,3.0,25.0
+F102,Pudding Vanilla,115,2.8,2.5,22.0
+F103,Ice Tea Sweet,80,0.0,0.0,20.0
+F104,Milk Tea,110,1.5,3.0,18.0
+F105,Coffee Milk,150,3.0,5.0,23.0
+F106,Smoothie Banana,210,5.0,3.0,45.0
+F107,Smoothie Strawberry,190,4.0,2.0,40.0
+F108,Smoothie Mango,200,4.0,1.5,43.0
+F109,Fish Grilled,150,26.0,5.0,0.0
+F110,Chicken Grilled,175,28.0,8.0,0.0
+F111,Beef Grilled,280,25.0,18.0,0.0
+F112,Shrimp Fried,242,22.0,15.5,6.0
+F113,Crab Fried,260,17.0,12.0,15.0
+F114,Squid Fried,290,20.0,18.0,10.0
+F115,Vegetable Stir Fry,120,3.0,5.0,18.0
+F116,Tofu Stir Fry,180,12.0,10.0,12.0
+F117,Tempe Stir Fry,210,14.0,11.0,15.0
+F118,Chicken Curry,320,18.0,22.0,12.0
+F119,Beef Curry,340,20.0,25.0,10.0
+F120,Vegetable Curry,150,4.0,6.0,20.0
