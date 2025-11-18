@@ -1,0 +1,6 @@
+child_age,child_sex,weight,height,energy_requirement,protein_requirement,fat_requirement,carb_requirement
+12,M,9.5,75,820,13,30,120
+24,F,11.2,82,900,14,32,130
+36,M,13.4,90,1020,16,35,150
+48,F,14.1,95,1130,18,40,160
+60,M,16.5,102,1200,20,45,180
